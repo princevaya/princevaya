@@ -2,7 +2,7 @@
 <h3 align="center">Cloud & DevOps Engineer | AWS • Terraform • Docker • CI/CD</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines= Automating+cloud+infrastructure+with+Terraform+%26+AWS ;Building+secure+CI%2FCD+pipelines+with+DevSecOps;Co-founder+%40+Nestial+Technologies;Open+to+Cloud%2FDevOps+Engineer+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Automating+cloud+infrastructure+with+Terraform+%26+AWS;Building+secure+CI%2FCD+pipelines+with+DevSecOps;Co-founder+%40+Nestial+Technologies;Open+to+Cloud%2FDevOps+Engineer+roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@
 
 ### 📫 Reach Me
 
-- 📧 princevaya.dev@gmail.com
+- 📧 princevaya02@gmail.com
 - 💼 [linkedin.com/in/prince-vaya-53262628b](https://linkedin.com/in/prince-vaya-53262628b)
 - 📍 Pimpri-Chinchwad, Maharashtra, India
 
