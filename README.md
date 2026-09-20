@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prince Vaya 👋</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS • Terraform • Docker • CI/CD</h3>
+<h3 align="center">Cloud & DevOps Engineer | AWS • Terraform • Kubernetes • CI/CD</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Automating+cloud+infrastructure+with+Terraform+%26+AWS;Building+secure+CI%2FCD+pipelines+with+DevSecOps;Co-founder+%40+Nestial+Technologies;Open+to+Cloud%2FDevOps+Engineer+roles" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/prince-vaya-53262628b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:princevaya.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:princevaya02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
